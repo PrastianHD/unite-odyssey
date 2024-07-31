@@ -23,7 +23,7 @@ npm install
 
 - Go to path/src/proxy.txt
 ```bash shell
-format proxy = `username:pass@host:ip`
+format proxy = `username:pass@host:port`
 ```
 
 # Usage
